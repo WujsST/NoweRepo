@@ -1,2 +1,3 @@
 kondony 5.70
 chleb 6.00
+wódka 50.00
