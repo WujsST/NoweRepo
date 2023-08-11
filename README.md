@@ -1,1 +1,1 @@
-# NoweRepo
+# Paragon z monosa
